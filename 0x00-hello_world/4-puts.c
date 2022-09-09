@@ -1,5 +1,4 @@
 #include <stdio.h>
-betty <4-puts.c>
 /**
  *  * main - main block
  *   * Return: 0
